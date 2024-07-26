@@ -85,10 +85,7 @@ tasks:
     ref: master
     src: https://github.com/RexShack/xsound
     
-  - action: download_github
-    dest: ./resources/[standalone]/interact-sound 
-    ref: main
-    src: https://github.com/RP-Redm/interact-sound 
+
     
   - action: download_github
     dest: ./resources/[standalone]/menu_base
