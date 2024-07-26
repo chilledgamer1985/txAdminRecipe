@@ -109,10 +109,7 @@ tasks:
     ref: main
     dest: ./resources/[framework]/rsg-multicharacter
 
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-management
-    ref: main
-    dest: ./resources/[framework]/rsg-management
+
     
   - action: download_github
     src: https://github.com/RP-Redm/rsg-appearance
