@@ -284,10 +284,7 @@ tasks:
     ref: main
     dest: ./resources/[framework]/rsg-fishing
     
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-adminmenu
-    ref: main
-    dest: ./resources/[framework]/rsg-adminmenu
+
     
   - action: download_github
     src: https://github.com/RP-Redm/rsg-fishvendor
