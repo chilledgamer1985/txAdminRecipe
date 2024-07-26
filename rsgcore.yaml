@@ -236,15 +236,9 @@ tasks:
     ref: main
     dest: ./resources/[framework]/rsg-treasure
     
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-rhodesbankheist
-    ref: main
-    dest: ./resources/[framework]/rsg-rhodesbankheist
+
     
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-valentinebankheist
-    ref: main
-    dest: ./resources/[framework]/rsg-valentinebankheist
+
     
   - action: download_github
     src: https://github.com/RP-Redm/rsg-crafting
@@ -261,10 +255,7 @@ tasks:
     ref: main
     dest: ./resources/[framework]/rsg-mining
 
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-properties
-    ref: main
-    dest: ./resources/[framework]/rsg-properties
+
     
   - action: download_github
     src: https://github.com/RP-Redm/rsg-telegram
@@ -286,10 +277,7 @@ tasks:
     ref: main
     dest: ./resources/[framework]/rsg-looting
     
-  - action: download_github
-    src: https://github.com/RP-Redm/rsg-rental
-    ref: main
-    dest: ./resources/[framework]/rsg-rental
+
     
   - action: download_github
     src: https://github.com/RP-Redm/rsg-fishing
