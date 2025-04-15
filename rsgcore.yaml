@@ -393,10 +393,7 @@ tasks:
     
   # Download Rexshack MapMod resources
   
-  - action: download_github
-    src: https://github.com/RP-Redm/map-mexico
-    ref: main
-    dest: ./resources/[mapmods]/map-mexico
+
     
   - action: download_github
     src: https://github.com/RP-Redm/map-moonshineshacks
